@@ -1,6 +1,6 @@
 # Job Test API - Django REST Framework
 
-Proyek ini adalah bagian dari tugas tes masuk kerja, di mana saya diminta untuk membuat REST API menggunakan Django dan Django REST Framework (DRF). Proyek ini mencakup fitur autentikasi user serta CRUD untuk user, post, comment, dan like.
+Proyek ini adalah bagian dari tugas tes masuk kerja, di mana saya diminta untuk membuat REST API menggunakan Django dan Django REST Framework (DRF). Proyek ini saya buat sederhana yang mencakup fitur autentikasi user serta CRUD untuk user, post, comment, dan like.
 
 ## 🚀 Fitur
 

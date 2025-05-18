@@ -24,7 +24,6 @@ class Like(models.Model):
     user = models.ForeignKey(User, on_delete=models.CASCADE)
 
     class Meta:
-        # Biar 1 user tidak bisa like 1 post lebih dari 1x
         unique_together = ('post', 'user')
 
     def __str__(self):
